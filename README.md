@@ -23,7 +23,12 @@ This is a simple Python-based game engine that allows users to play various mini
   - Tic Tac Toe
   - Number Guessing (with limited tries)
   - Quiz Game
-**##Project Structure**
+
+
+
+##Project Structure
+
+
 game_engine/
 │
 ├── games/
@@ -34,6 +39,8 @@ game_engine/
 │   └── rock_paper_scissors.py
 │
 └── main.py
+
+
 
 ## Installation
 
