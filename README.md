@@ -26,22 +26,6 @@ This is a simple Python-based game engine that allows users to play various mini
 
 
 
-##Project Structure
-
-
-game_engine/
-│
-├── games/
-│   ├── __init__.py
-│   ├── tic_tac_toe.py
-│   ├── number_guessing.py
-│   ├── quiz_game.py
-│   └── rock_paper_scissors.py
-│
-└── main.py
-
-
-
 ## Installation
 
 1. Clone the repository:
