@@ -1,14 +1,3 @@
-game_engine/
-│
-├── games/
-│   ├── __init__.py
-│   ├── tic_tac_toe.py
-│   ├── number_guessing.py
-│   ├── quiz_game.py
-│   └── rock_paper_scissors.py
-│
-└── main.py
-
 # Python Game Engine
 
 This is a simple Python-based game engine that allows users to play various mini-games such as Tic Tac Toe, Number Guessing, and a Quiz Game. The project demonstrates the use of object-oriented programming (OOP) concepts in Python.
